@@ -19,3 +19,9 @@ C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\obj\Debug\net6.0\PizzaS
 C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\obj\Debug\net6.0\ref\PizzaStoreMiniAPI.dll
 C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\obj\Debug\net6.0\PizzaStoreMiniAPI.pdb
 C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\obj\Debug\net6.0\PizzaStoreMiniAPI.genruntimeconfig.cache
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\obj\Debug\net6.0\PizzaStoreMiniAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\obj\Debug\net6.0\PizzaStoreMiniAPI.csproj.CopyComplete
