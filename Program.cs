@@ -2,9 +2,11 @@ using Microsoft.EntityFrameworkCore;
 using PizzaStoreMiniAPI.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString= builder.Configuration.GetConnectionString("Pizzas")??
+    "Data Source=Pizza.db";
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddDbContext<PizzaDb>(OptionsBuilderConfigurationExtensions=>OptionsBuilderConfigurationExtensions.UseInMemoryDatabase("items"));
-
+//builder.Services.AddDbContext<PizzaDb>(OptionsBuilderConfigurationExtensions=>OptionsBuilderConfigurationExtensions.UseInMemoryDatabase("items"));
+builder.Services.AddSqlite<PizzaDb>(connectionString);
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1",new Microsoft.OpenApi.Models.OpenApiInfo
