@@ -26,3 +26,6 @@ C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\Swashb
 C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\obj\Debug\net6.0\PizzaStoreMiniAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\obj\Debug\net6.0\PizzaStoreMiniAPI.csproj.CopyComplete
 C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\swagger\v1\swagger.json
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\milad 10\Source\Repos\Miluxas\PizzaStoreMiniAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
